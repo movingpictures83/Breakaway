@@ -1,0 +1,2 @@
+Prefix plugins/Breakaway/example/
+Plugin Breakaway inputfile apples.csv outputfile none
